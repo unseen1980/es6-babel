@@ -1,2 +1,1 @@
-# es6-to-es2015
-# Es6-to-Es2015
+Convert ES6 to ES2015 with Babel transpiler
